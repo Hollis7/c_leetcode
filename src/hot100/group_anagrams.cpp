@@ -19,3 +19,7 @@ vector<vector<string>> groupAnagrams(vector<string> &strs)
     }
     return res;
 }
+int main()
+{
+    return 0;
+}
