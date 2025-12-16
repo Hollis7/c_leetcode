@@ -27,3 +27,7 @@ int maxArea(vector<int> &height)
     }
     return res;
 }
+int main()
+{
+    return 0;
+}
