@@ -1,7 +1,4 @@
-#include <vector>
-#include <unordered_map>
 #include <iostream>
-#include <algorithm>
 #include "list_node.h"
 using namespace std;
 bool hasCycle(ListNode *head)
@@ -26,5 +23,6 @@ bool hasCycle(ListNode *head)
 }
 int main()
 {
+    cout << " 0" << endl;
     return 0;
 }
